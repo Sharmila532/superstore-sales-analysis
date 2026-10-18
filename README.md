@@ -23,7 +23,6 @@ Python (Pandas), Matplotlib/Seaborn, Google Colab, Power BI, DAX
    trend lines, and regional breakdowns (see Power BI build steps above)
 
 ## Key Findings
-*(fill in with your actual numbers after running the notebook)*
 - e.g. "Furniture" sub-categories show high sales but thin/negative margins
 - Profit turns negative past ~X% discount
 - [Region] leads in both sales and profit margin
